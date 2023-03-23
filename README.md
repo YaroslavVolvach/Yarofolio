@@ -45,4 +45,4 @@ The last section of a high-quality README file is the license. This lets other d
 
 ## Site
 
-https://yaroslavvolvach.github.io/React-Yarofolio/#/
+https://yaroslavvolvach.github.io/Yarofolio/
