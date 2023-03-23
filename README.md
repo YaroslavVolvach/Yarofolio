@@ -23,6 +23,19 @@ Toronto Boot Camp
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
+## Contributing
+👪 https://github.com/YaroslavVolvach
+
+## Tests
+✏️ Yes
+
+## Questions
+✋ Let me know about your issue:<br />
+<br />
+:octocat: Find me on GitHub: [YaroslavVolvach](https://github.com/YaroslavVolvach)<br />
+<br />
+✉️ Email me with any questions: volvachya@gmail.com<br /><br />
+
 ---
 
 ## ScreenShots
@@ -30,8 +43,6 @@ The last section of a high-quality README file is the license. This lets other d
 <img width="1424" alt="Screenshot 2023-01-17 at 15 39 39" src="https://user-images.githubusercontent.com/60551329/213007938-ac9d165e-f9a4-477b-a38d-929f9f3103f3.png">
 <img width="1417" alt="Screenshot 2023-01-17 at 15 39 51" src="https://user-images.githubusercontent.com/60551329/213007929-7a0a7c4e-09b9-4ca2-b19f-b73669cccddd.png">
 
-
-
 ## Site
 
-file:///Users/yaroslavvolvach/bootcamp/model_challenge_3/index.html
+https://yaroslavvolvach.github.io/React-Yarofolio/#/
